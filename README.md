@@ -1,6 +1,19 @@
 # draggablescrollable
 
-A new Flutter project.
+Screenshots from the app :
+
+![Screenshot_2022-10-07-15-18-21-777_com example draggablescrollable](https://user-images.githubusercontent.com/114262032/194563531-4240cb1f-6c0d-4487-ad66-54e84bdaf80c.jpg)
+
+![Screenshot_2022-10-07-15-19-11-724_com example draggablescrollable](https://user-images.githubusercontent.com/114262032/194563589-0958c67d-9ef9-44de-bae1-eab70f52096e.jpg)
+
+![Screenshot_2022-10-07-15-19-00-563_com example draggablescrollable](https://user-images.githubusercontent.com/114262032/194563613-7fd683d1-5857-41e6-b526-3838268a0b1b.jpg)
+
+![Screenshot_2022-10-07-15-18-39-189_com example draggablescrollable](https://user-images.githubusercontent.com/114262032/194563635-7eeed29c-5656-48de-8218-8bd81ff453f6.jpg)
+
+![Screenshot_2022-10-07-15-19-17-461_com example draggablescrollable](https://user-images.githubusercontent.com/114262032/194563655-3609e356-6d97-49e2-b6b2-8dd8c5cfb3c3.jpg)
+
+![Screenshot_2022-10-07-15-19-27-901_com example draggablescrollable](https://user-images.githubusercontent.com/114262032/194563665-58913284-5807-48ef-858c-72a1006918ac.jpg)
+
 
 ## Getting Started
 
