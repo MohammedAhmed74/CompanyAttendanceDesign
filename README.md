@@ -12,7 +12,8 @@ Screenshots from the app :
 
 ![Screenshot_2022-10-07-15-19-17-461_com example draggablescrollable](https://user-images.githubusercontent.com/114262032/194563655-3609e356-6d97-49e2-b6b2-8dd8c5cfb3c3.jpg)
 
-![Screenshot_2022-10-07-15-19-27-901_com example draggablescrollable](https://user-images.githubusercontent.com/114262032/194563665-58913284-5807-48ef-858c-72a1006918ac.jpg)
+![Picsart_22-10-11_06-29-39-563](https://user-images.githubusercontent.com/114262032/194997443-5a16cc4c-7abf-454e-8a3b-962412692fe2.jpg)
+
 
 
 ## Getting Started
